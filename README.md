@@ -2,6 +2,7 @@
 
 Title: Developing a Deep Learning-Based Diabetes Incidence Prediction System for Improved Disease Management
 
+
 Description:
 Diabetes, a chronic health problem, stems from an imbalance in glucose regulation within the body. This lifelong condition manifests when blood glucose levels are abnormally high and is associated with a wide range of consequences, including increased mortality rates. As the prevalence of diabetes continues to rise, it is imperative to devise innovative strategies for its prevention and treatment. However, current disease management techniques have drawbacks, particularly in terms of user comfort and accessibility.
 
